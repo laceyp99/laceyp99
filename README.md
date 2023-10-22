@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laceyp99
-- 👀 I’m interested in audio engineering.
-- 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on audio plugins and other audio projects.
+- 👀 I’m interested in audio engineering and AI development.
+- 🌱 I’m currently using C++ and Python languages.
+- 💞️ I’m looking to collaborate on audio or AI projects.
 - 📫 How to reach me @whereislace on Instagram or email me at pat@laceys.com.
 
 <!---
